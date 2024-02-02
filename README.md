@@ -2,8 +2,6 @@
 - 👀 I’m interested in Data Analytics  
 - 🌱 I’m currently learning MySQL,Python,PowerBI & Tableau
 - 💞️ I’m looking to collaborate on challengings projects that help me land into my first data analyst job
-- 📫 How to reach me www.linkedin.com/in/diana-murua-28a564219
-- 😄 Pronouns: she/her 
 - ⚡ Fun fact: I'm a Biotechnology Engineer and Bioinformatics was my favorite subject 
 
 <!---
